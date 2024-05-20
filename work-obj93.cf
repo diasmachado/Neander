@@ -1,0 +1,109 @@
+v 3
+file . "ula.vhdl" "20230705131408.000" "20240520115246.097":
+  entity ula at 1( 0) + 0 on 93;
+  architecture behavior of ula at 13( 271) + 0 on 94;
+file . "ucmod.vhdl" "20230725000202.000" "20240520115246.097":
+  entity moduc at 1( 0) + 0 on 91;
+  architecture dresrossa of moduc at 13( 250) + 0 on 92;
+file . "ucdoors.vhdl" "20230726123310.000" "20240520115246.096":
+  entity lda at 1( 0) + 0 on 71;
+  architecture pride of lda at 9( 169) + 0 on 72;
+  entity sta at 41( 967) + 0 on 73;
+  architecture lust of sta at 49( 1134) + 0 on 74;
+  entity nop at 82( 1991) + 0 on 75;
+  architecture envy of nop at 90( 2158) + 0 on 76;
+  entity nott at 122( 2819) + 0 on 77;
+  architecture wrath of nott at 130( 2992) + 0 on 78;
+  entity add at 163( 3675) + 0 on 79;
+  architecture greed of add at 171( 3844) + 0 on 80;
+  entity orr at 204( 4684) + 0 on 81;
+  architecture sloth of orr at 212( 4852) + 0 on 82;
+  entity andd at 245( 5692) + 0 on 83;
+  architecture gluttony of andd at 253( 5863) + 0 on 84;
+  entity jmp at 286( 6707) + 0 on 85;
+  architecture tall of jmp at 294( 6876) + 0 on 86;
+  entity jmpfalse at 326( 7627) + 0 on 87;
+  architecture small of jmpfalse at 334( 7807) + 0 on 88;
+  entity hlt at 366( 8461) + 0 on 89;
+  architecture nada of hlt at 374( 8630) + 0 on 90;
+file . "tb_NEANDER_01_ULA_MEM.vhdl" "20240520145244.000" "20240520115246.095":
+  entity tb_moduloulamem at 24( 1081) + 0 on 69;
+  architecture quickmath of tb_moduloulamem at 30( 1180) + 0 on 70;
+file . "tb_NEANDER_00-ULA.vhdl" "20240520144958.000" "20240520115246.094":
+  entity tb_moduloula at 24( 1026) + 0 on 67;
+  architecture quickmath of tb_moduloula at 30( 1119) + 0 on 68;
+file . "tb_neander.vhdl" "20230726114640.000" "20240520120356.003":
+  entity tb_neander at 1( 0) + 0 on 95;
+  architecture fboss of tb_neander at 7( 78) + 0 on 96;
+file . "tb_mux5x8.vhdl" "20230628115800.000" "20240520115246.094":
+  entity tb_mux5x8 at 1( 0) + 0 on 63;
+  architecture behavior of tb_mux5x8 at 6( 76) + 0 on 64;
+file . "tb_counter.vhdl" "20230724173958.000" "20240520115246.094":
+  entity tb_counter at 1( 0) + 0 on 61;
+  architecture cnt of tb_counter at 7( 78) + 0 on 62;
+file . "tb_as_ram.vhdl" "20210825193330.000" "20240520115246.093":
+  entity tb_as_ram at 1( 0) + 0 on 59;
+  architecture tb_behavior of tb_as_ram at 9( 126) + 0 on 60;
+file . "registradores.vhdl" "20230705133200.000" "20240520115246.093":
+  entity regcarga1bit at 2( 68) + 0 on 53;
+  architecture reg1bit of regcarga1bit at 14( 327) + 0 on 54;
+  entity regcarga2bit at 31( 854) + 0 on 55;
+  architecture reg2bit of regcarga2bit at 42( 1146) + 0 on 56;
+  entity regcarga8bit at 59( 1658) + 0 on 57;
+  architecture reg8bit of regcarga8bit at 70( 1950) + 0 on 58;
+file . "portaslog.vhdl" "20230705133452.000" "20240520115246.093":
+  entity por at 2( 76) + 0 on 41;
+  architecture comuta of por at 11( 333) + 0 on 42;
+  entity pnot at 21( 562) + 0 on 43;
+  architecture comuta of pnot at 29( 725) + 0 on 44;
+  entity pand at 37( 944) + 0 on 45;
+  architecture comuta of pand at 46( 1147) + 0 on 46;
+  entity somador at 56( 1382) + 0 on 47;
+  architecture behavior of somador at 66( 1533) + 0 on 48;
+  entity somador8 at 74( 1686) + 0 on 49;
+  architecture behavior of somador8 at 86( 1916) + 0 on 50;
+  entity detect at 111( 2732) + 0 on 51;
+  architecture comuta of detect at 119( 2895) + 0 on 52;
+file . "pc.vhdl" "20230726040506.000" "20240520115246.092":
+  entity programcounter at 1( 0) + 0 on 39;
+  architecture behavior of programcounter at 11( 235) + 0 on 40;
+file . "NEANDER.vhdl" "20230726040532.000" "20240520115246.092":
+  entity neander at 1( 0) + 0 on 37;
+  architecture onepiece of neander at 9( 116) + 0 on 38;
+file . "mux5x8.vhdl" "20230705142004.000" "20240520115246.092":
+  entity mux5x8 at 1( 0) + 0 on 35;
+  architecture comuta of mux5x8 at 15( 425) + 0 on 36;
+file . "modulomemoria.vhdl" "20230726115446.000" "20240520115246.092":
+  entity modulomem at 1( 0) + 0 on 33;
+  architecture lione of modulomem at 15( 489) + 0 on 34;
+file . "modula.vhdl" "20230725011948.000" "20240520115246.092":
+  entity modula at 1( 0) + 0 on 31;
+  architecture arcula of modula at 13( 317) + 0 on 32;
+file . "modctrl.vhdl" "20230726112618.000" "20240520115246.092":
+  entity modctrl at 1( 0) + 0 on 29;
+  architecture control of modctrl at 11( 243) + 0 on 30;
+file . "jn_and_jz.vhdl" "20230724233142.000" "20240520115246.091":
+  entity jx at 1( 0) + 0 on 27;
+  architecture pulo of jx at 10( 182) + 0 on 28;
+file . "flags.vhdl" "20230630140148.000" "20240520115246.091":
+  entity flags at 1( 0) + 0 on 25;
+  architecture armazenar of flags at 13( 237) + 0 on 26;
+file . "ffjkd.vhdl" "20230620001048.000" "20240520115246.091":
+  entity ffjk at 2( 70) + 0 on 19;
+  architecture latch of ffjk at 14( 316) + 0 on 20;
+  entity ffd at 72( 2349) + 0 on 21;
+  architecture latch of ffd at 84( 2594) + 0 on 22;
+  entity fft at 107( 3127) + 0 on 23;
+  architecture latch of fft at 119( 3372) + 0 on 24;
+file . "decode.vhdl" "20230724164014.000" "20240520115246.091":
+  entity decode at 1( 0) + 0 on 17;
+  architecture dec of decode at 21( 400) + 0 on 18;
+file . "ctrldec.vhdl" "20230724173558.000" "20240520115246.091":
+  entity ctrldec at 1( 0) + 0 on 15;
+  architecture cntr of ctrldec at 10( 166) + 0 on 16;
+file . "counter.vhdl" "20230726020640.000" "20240520115246.090":
+  entity counter at 1( 0) + 0 on 13;
+  architecture struct of counter at 13( 196) + 0 on 14;
+file . "as_ram.vhdl" "20230726021654.000" "20240520115246.090":
+  entity as_ram at 2( 42) + 0 on 11;
+  architecture behavior of as_ram at 16( 325) + 0 on 12;
